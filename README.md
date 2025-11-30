@@ -192,3 +192,7 @@ Typical applications include:
 - Digital down/up conversion
 - Multi-rate DSP pipelines where a simple, low-cost filter is enough
 - PDM to PCM conversion (for audio)
+
+## License
+
+Apache-2.0 License © 2025, RefraXion (https://github.com/RefrXn)
