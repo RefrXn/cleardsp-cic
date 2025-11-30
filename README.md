@@ -1,5 +1,7 @@
 # CIC Decimator & Interpolator (SystemVerilog)
 
+!(./assets/cleardsp-banner.png)
+
 This repo contains a pair of **streaming CIC filters**:
 
 - `cic_decimator.sv`          – CIC decimation filter with ready/valid interface  
