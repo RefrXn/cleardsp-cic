@@ -26,10 +26,10 @@ Both cores are fully parameterized and use internal full-precision arithmetic wi
 ## Files
 
 clear-dsp/
-├─ rtl/
-│  ├─ cic_decimator.sv
-│  └─ cic_interpolator.sv
-├─ tb/
-│  ├─ tb_cic_decimator.sv
-│  └─ tb_cic_interpolator.sv
-└─ README.md
+  ├─ rtl/
+  │  ├─ cic_decimator.sv
+  │  └─ cic_interpolator.sv
+  ├─ tb/
+  │  ├─ tb_cic_decimator.sv
+  │  └─ tb_cic_interpolator.sv
+  └─ README.md
