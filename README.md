@@ -1,6 +1,6 @@
 # CIC Decimator & Interpolator (SystemVerilog)
 
-![ClearDSP Banner]([./assets/cleardsp-banner.png](https://github.com/RefrXn/cleardsp-cic/blob/main/assets/cleardsp-banner.png))
+![ClearDSP Banner]([./assets/cleardsp-banner.png](https://github.com/RefrXn/cleardsp-cic/blob/main/assets/cleardsp-banner.png)
 
 This repo contains a pair of **streaming CIC filters**:
 
